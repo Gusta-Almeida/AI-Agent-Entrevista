@@ -1,4 +1,4 @@
-# Projeto: IA Entrevistador Técnico  
+# Projeto: IA Entrevistadora Técnica  
 ### Simulação Estruturada de Entrevistas Para Vagas de Tecnologia
 
 ---
