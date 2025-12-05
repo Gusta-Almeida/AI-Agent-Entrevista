@@ -11,6 +11,11 @@ A solução foi construída a partir de interações orientadas, com lógica cla
 Assim como nos demais projetos deste repositório, a abordagem se baseia no uso de **IA Generativa** para criação de conteúdo, estruturação de processos e documentação profissional.
 
 ---
+## Prompt utilizado para a IA Entrevistadora Técnica
+
+https://raw.githubusercontent.com/Gusta-Almeida/AI-Agent-Entrevista/refs/heads/main/Prompt
+
+---
 
 ## Objetivos do Projeto
 
