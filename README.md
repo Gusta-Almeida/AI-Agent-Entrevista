@@ -5,7 +5,7 @@
 
 ## Visão Geral
 
-Este projeto tem como objetivo desenvolver uma IA Especializada em Entrevistas Técnicas, capaz de conduzir entrevistas estruturadas para vagas de tecnologia — realizando perguntas progressivas, avaliando competências e simulando cenários reais de processo seletivo.
+Este projeto tem como objetivo desenvolver uma IA Especializada em Entrevistas Técnicas, capaz de conduzir entrevistas estruturadas para vagas de tecnologia, realizando perguntas progressivas, avaliando competências e simulando cenários reais de processo seletivo.
 
 A solução foi construída a partir de interações orientadas, com lógica clara de fluxo, respostas otimizadas para treino do candidato e aplicação de boas práticas de recrutamento técnico.  
 Assim como nos demais projetos deste repositório, a abordagem se baseia no uso de IA Generativa para criação de conteúdo, estruturação de processos e documentação profissional.
@@ -58,8 +58,6 @@ Esse fluxo foi projetado para oferecer uma experiência próxima de uma entrevis
 ---
 
 ## Fluxo de Desenvolvimento
-
-O projeto foi construído com base em processos similares aos seus READMEs anteriores :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}:
 
 1. Mapeamento das necessidades do candidato  
    (objetivo profissional, nível, histórico e interesses)
@@ -130,7 +128,7 @@ Uma rotina de entrevista estruturada com IA pode acelerar significativamente a p
 
 ## Conclusão
 
-O Projeto: IA Entrevistador Técnico demonstra na prática como IA Generativa pode ser aplicada para simular entrevistas profissionais, desenvolver habilidades comportamentais e técnicas e apoiar quem está em transição de carreira.
+O Projeto: IA Entrevistadora Técnica demonstra na prática como IA Generativa pode ser aplicada para simular entrevistas profissionais, desenvolver habilidades comportamentais e técnicas e apoiar quem está em transição de carreira.
 
 Assim como nos demais projetos do repositório, este documento reforça:
 
@@ -138,11 +136,3 @@ Assim como nos demais projetos do repositório, este documento reforça:
 - organização  
 - uso de IA como ferramenta criativa e educacional  
 - foco em evolução contínua  
-
----
-
-## Referências
-
-- ChatGPT – OpenAI  
-- Práticas de entrevista técnica e STAR Model  
-
